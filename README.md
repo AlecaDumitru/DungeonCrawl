@@ -2,6 +2,8 @@ Dungeon Crawl is an old school RPG.
 
 Your character starts in the dungeon of a castle and you have to fight your way through various guards, free other prisoners, gather power-ups, find keys in order to progress to the next levels and fight the final boss.
 
+Because at the time we did not know how to use Git together with a unity project, we used Unity packages for version control instead of Git
+
 The main technologies that were used to create this project were: the Unity Game Engine, C# as the programming language, Visual Studio as the IDE, the game assets were downloaded from the Unity Asset Store and the sound effects from Youtube
 
 ![unity](https://user-images.githubusercontent.com/89579316/185093452-6907d46e-eb60-4e24-9054-3602fc84f020.jpg)
